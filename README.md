@@ -1,3 +1,3 @@
 # best surveillance
-Free Video surveillance VMS "Best Surveillance"
+Free CCTV VMS "Best Surveillance"
 https://surveillance.best
